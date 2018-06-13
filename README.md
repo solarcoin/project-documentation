@@ -6,3 +6,7 @@ The Organization directory is to house documents related to People, Third Party 
 
 # Process
 The Process directory is to house process flow diagrams related to business processes for the Foundation
+
+# SolarCoin.wiki
+
+The SolarCoin wiki has a lot of documentation, key definitions and terms. http://solarcoin.wiki/
